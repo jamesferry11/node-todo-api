@@ -9,11 +9,11 @@ mongod.exe --config="C:\mongo-data\mongo.config"
 
 
 1)
-cd C:\Program Files\MongoDB\Server\3.4\bin
+cd C:\Program Files\mongodb\Server\3.4\bin
 
 2)
-mongo.exe
-or
-mongod.exe --dbpath/~/mongo-data/data/db
+mongod.exe
+
+--dbpath/~/mongo-data/data/db
 
 3)
